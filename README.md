@@ -1,1 +1,1 @@
-##personal static resource##
+##personal static resource
